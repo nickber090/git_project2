@@ -1,5 +1,6 @@
 def main():
     print("my first git progr")
+    print("and i ch it every day")
 
 
 
